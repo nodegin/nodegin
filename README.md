@@ -7,5 +7,5 @@
 </p>
 
 <p align="right">
-  <img src="https://camo.githubusercontent.com/48c8601e1acc975bf45d25a9a006878ac150d25aa33df711066a29e400118846/68747470733a2f2f66696c652e696f2f774a4b516766757a74724d4e">
+  <img src="https://raw.githubusercontent.com/nodegin/nodegin/master/fds.svg">
 </p>
